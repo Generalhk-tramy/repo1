@@ -2,7 +2,7 @@
 
 #### Hello 
 
-## this is day two
+## It's day two
 
 ##### I'm still alive~
 
